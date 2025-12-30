@@ -8,7 +8,7 @@
 
 ### 👨‍🏫 I'm a Student, from Indore/Kolkata, India.
 
-- 🔭 I’m an open source contributor and project admin/mentor at Social Summer of Code (SSoC), GirlScript Summer of Code (GSSoC), and Hacktoberfest.
+- 🔭 I’m an open source contributor and project admin/mentor at Social Summer of Code (SSoC), GirlScript Summer of Code (GSSoC), Hacktoberfest, Social Winter of Code (SWoC).
 - 📫 How to reach me: aliviahossainofficial@gmail.com
 
 ---
@@ -31,16 +31,16 @@
 ---
 
 ### 🔥 My Stats :
-
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliviahossain&theme=radical">
-</div>
-<br>
-
 <div align="center">
   <img src="https://readme-summary-cards.vercel.app/api/cards/profile-details?username=aliviahossain&theme=radical"> 
 </div>
+
+### 🎧 Listening To:
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tsgbsqbzhpgl5bnewsuetlbh5u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
+  </a>
+</p>
 
 
 
