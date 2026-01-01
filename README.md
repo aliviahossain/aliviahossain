@@ -6,10 +6,11 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-### 👨‍🏫 I'm a Student, from Indore/Kolkata, India.
+### 👨‍🏫 I'm an AI Engineering Student, from Indore/Kolkata, India.
 
-- 🔭 I’m an open source contributor and project admin/mentor at Social Summer of Code (SSoC), GirlScript Summer of Code (GSSoC), Hacktoberfest, Social Winter of Code (SWoC).
+- 🔭 I’m an open source contributor and project admin/mentor at Social Summer of Code (SSoC), GirlScript Summer of Code (GSSoC), Hacktoberfest and Social Winter of Code (SWoC).
 - 📫 How to reach me: aliviahossainofficial@gmail.com
+- 🤝 Connect with me: https://www.linkedin.com/in/alivia-hossain-513a3a365/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ---
 
@@ -31,8 +32,26 @@
 ---
 
 ### 🔥 My Stats :
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/aliviahossain">
+        <img height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aliviahossain&show_icons=true&theme=radical&count_private=true" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/aliviahossain">
+        <img height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=aliviahossain&layout=compact&theme=radical" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
+
   <img src="https://readme-summary-cards.vercel.app/api/cards/profile-details?username=aliviahossain&theme=radical"> 
+
 </div>
 
 ### 🎧 Listening To:
