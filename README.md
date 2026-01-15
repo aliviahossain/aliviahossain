@@ -30,6 +30,10 @@
 </div>
 
 ---
+### Holopin Badges
+[![An image of @aliviahossain's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aliviahossain)](https://holopin.io/@aliviahossain)
+
+---
 
 ### 🔥 My Stats :
 
