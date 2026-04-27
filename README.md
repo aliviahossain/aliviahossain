@@ -15,6 +15,19 @@ I'm an **AI Engineering Student** from Indore / Kolkata, India.
 - 🤝 Connect on [LinkedIn](https://www.linkedin.com/in/alivia-hossain-513a3a365/)
 
 ---
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/alivia-hossain-513a3a365/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/aliviahossain">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
 
 ### 🛠 Languages & Tools
 
@@ -88,14 +101,3 @@ I'm an **AI Engineering Student** from Indore / Kolkata, India.
 
 ---
 
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/alivia-hossain-513a3a365/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/aliviahossain">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
