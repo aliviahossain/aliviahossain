@@ -2,13 +2,16 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://miro.medium.com/1*Erk4NawQOHkf4wSN7JmB_A.jpeg" width="300">
+  
 </div>
 
 <br/>
 
+
 ### 👩‍💻 About Me
 
-I'm an **AI Engineering Student** from Indore / Kolkata, India.
+I'm an **AI & Data Science Engineering Student** from Indore / Kolkata, India.
 
 - 🔭 Open source contributor & project admin/mentor at **SSoC**, **GSSoC**, **Hacktoberfest**, and **SWoC**
 - 💬 How to reach me: [aliviahossainofficial@gmail.com](mailto:aliviahossainofficial@gmail.com)
